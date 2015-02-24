@@ -71,6 +71,10 @@ class Formulario extends CI_Controller {
 
 	}
 
+	public function nosotros(){
+		$this->layout->view('nosotros');
+	}
+
 
 
 
