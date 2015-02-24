@@ -1,6 +1,6 @@
 
 
-<h1>Formularios en Codeigniter !!!</h1>
+<h1>Formularios en Codeigniter cambio !!!</h1>
 
 <?php
 $atributos = array('id' => 'miformulario','name'=>'form');
