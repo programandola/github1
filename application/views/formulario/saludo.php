@@ -1,6 +1,6 @@
 
 
-<h1>Hola desde la vista saludo !!!</h1>
+<h1>hola mundo desde la vista saludo</h1>
 
 <h3>el valor de id es :<?php echo $id;?></h3>
 
